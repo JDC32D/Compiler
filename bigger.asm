@@ -1,0 +1,10 @@
+READ F
+LOAD F
+READ S
+SUB S
+BRNEG Bigger
+STOP
+Bigger: WRITE 1
+STOP
+F 0
+S 0

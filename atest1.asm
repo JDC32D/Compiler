@@ -1,0 +1,4 @@
+WRITE X1
+STOP
+X1 1
+X2 2

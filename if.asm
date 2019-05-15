@@ -1,0 +1,7 @@
+READ x
+LOAD x
+SUB 1
+BRNEG out
+WRITE x
+out: STOP
+x 0

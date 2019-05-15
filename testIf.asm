@@ -1,0 +1,11 @@
+READ x
+LOAD x
+SUB 5
+BRNEG OutFive
+SUB 5
+BRPOS OutTen
+WRITE 1
+STOP
+OutFive: STOP
+OutTen: STOP
+x 0
